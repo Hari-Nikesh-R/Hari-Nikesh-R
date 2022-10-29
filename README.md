@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" alt="Hari Nikesh" width="70" height="70" /></p>
+<center><p><img src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" alt="Hari Nikesh" width="70" height="70" /></p></center>
 
 
 - 🌱 I’m currently Software Developer Engineering Intern in Quinbay.
