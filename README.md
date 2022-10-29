@@ -120,7 +120,7 @@
       width="40" height="40" /> </a>
       <a href="https://www.heroku.com/" target="_blank"
     rel="noreferrer"> <img
-      src="" alt="Heroku"
+      src="https://www.svgrepo.com/show/331424/heroku.svg" alt="Heroku"
       width="40" height="40" /> </a>
 
       
