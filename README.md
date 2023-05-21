@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Nikesh R</h1>
-<h3 align="center">SDE Intern @ <strong>Quinbay</strong></h3>
+<h3 align="center">SDE Intern @ <strong>Quinbay Technologies</strong></h3>
 
 <br>
 
