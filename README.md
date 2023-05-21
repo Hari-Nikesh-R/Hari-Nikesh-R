@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Nikesh R</h1>
-<h3 align="center">Student at Sri Eshwar College of Engineering, Coimbatore.</h3>
+<h3 align="center">SDE Intern @ <strong>Quinbay</strong></h3>
 
 <br>
 
