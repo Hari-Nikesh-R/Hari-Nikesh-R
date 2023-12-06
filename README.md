@@ -9,7 +9,7 @@
 <p><img align="right" src="https://media.giphy.com/media/98uBZTzlXMhkk/giphy.gif" alt="Hari Nikesh" width="70" height="70" /></p>
 
 
-- 🌱 I’m currently Software Developer Engineering Intern in Quinbay.
+- 🌱 I’m currently Software Developer Engineering in Quinbay.
 
 - 📫 How to reach me **hari.nikesh.r.cce@gmail.com**
 
