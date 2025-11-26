@@ -1,103 +1,119 @@
+<h1 align="center">Hari Nikesh R</h1>
+<h3 align="center" style="color:#0A66C2;">Software Engineer | Full Stack Developer | Mobile & Backend Specialist</h3>
 
-<img width="100%" src="https://i.ibb.co/4t3CPW4/hacker-header.gif"/>
-
-<h1 align="center">👨‍💻 Hari Nikesh R</h1>
-<h3 align="center">Full Stack Engineer • Java | Spring | Flutter | React • 3+ Years Experience</h3>
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Quinbay+Technologies;Full+Stack+Developer;Building+Apps+%26+Systems;Technologist+%7C+Teacher+%7C+Creator;Hack+The+Future..." />
+  <img src="https://i.ibb.co/ZJx0bkf/linkedin-banner-premium.png" width="100%" />
 </p>
 
----
+<br>
 
-## 🕶️ About Me
-\`\`\`bash
-> whoami
-\`\`\`
-- Software Engineer @ **Quinbay Technologies**  
-- 3+ Years of hands-on development experience  
-- Passionate about **systems**, **backend**, **mobile apps**, and **AI-driven engineering**  
-- Love to **teach**, mentor, and build developer communities  
-- Goal: Build my own **indie video game** + launch powerful **social-impact apps**
+## 👋 About Me
+I’m a passionate **Software Engineer** with 3+ years of experience building scalable backend services, intuitive mobile applications, and full-stack systems.  
+
+With strong expertise in **Java, Spring Boot, Flutter, React, and distributed systems**, I enjoy solving business problems through clean architecture, performance optimization, and user-centric design.
+
+I also love **teaching, mentoring, and creating technical content**, helping developers grow in their learning journey.
 
 ---
 
-## ⚙️ Tech Stack
-\`\`\`bash
-> cat ~/skills/core.txt
-\`\`\`
+## 🧩 What I Do
+### **💼 Software Engineering**
+- Develop scalable backend systems using **Java + Spring Boot**
+- Build cross-platform apps using **Flutter**
+- Implement responsive UI using **React**
+- Design APIs, Microservices & integration workflows
 
-### 🧬 Core Expertise
-- **Java**, **Spring Boot**, **Microservices**, **REST APIs**
-- **Flutter**, **Android**, **Kotlin**
-- **React**, **JavaScript**, **HTML**, **CSS**
-- **Python**, Scripting, Automation
+### **⚙️ System Design & Architecture**
+- API Design  
+- Distributed systems  
+- Caching (Redis)  
+- Performance tuning  
 
-### 🗄️ Databases
+### **📱 Mobile Development**
+- Android (Kotlin + Native)
+- Flutter (cross-platform)
+
+---
+
+## 🛠️ Skills
+
+### **Programming Languages**
+**Java**, **Kotlin**, **Dart**, **JavaScript**, **Python**, **C/C++**
+
+### **Frameworks & Libraries**
+- **Spring Boot**, REST, JPA  
+- **Flutter**, Jetpack  
+- **React**, Node.js  
+
+### **Databases**
 - **MongoDB**, **MySQL**, **Redis**
 
-### 🧰 Tools & Platforms
-- Git • GitHub • IntelliJ • VSCode • Android Studio  
-- Firebase • Docker • Heroku
+### **Tools & Platforms**
+- Docker  
+- Git & GitHub  
+- IntelliJ IDEA  
+- Android Studio  
+- Firebase  
 
 ---
 
-## 🛰️ Experience
-\`\`\`bash
-> nano ~/experience/quinbay.log
-\`\`\`
-**Software Engineer – Quinbay Technologies (2023 – Present)**  
-- Developed scalable backend services using **Java + Spring Boot**  
-- Built mobile & frontend features using **Flutter** and **React**  
-- Worked on **real-time systems**, **API integrations**, and **microservice pipelines**  
-- Improved performance, reliability, and developer workflows  
+## 💼 Experience
+
+### **Software Engineer — Quinbay Technologies**  
+**2023 — Present**  
+- Developed high-performance backend services with **Java + Spring Boot**  
+- Built user-facing features & applications using **Flutter & React**  
+- Worked on real-time data pipelines and API integrations  
+- Improved system performance, modularity, and deployment workflows  
 
 ---
 
 ## 🎓 Education
-\`\`\`bash
-> ls ~/education
-\`\`\`
-- **B.E – Computer & Communication Engineering**  
-  Sri Eshwar College of Engineering (2019–2023)
+
+### **B.E — Computer & Communication Engineering**  
+Sri Eshwar College of Engineering (2019–2023)
 
 ---
 
-## 🔗 Connect
-\`\`\`bash
-> ssh connect@harinikesh
-\`\`\`
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Nikesh-R&show_icons=true&theme=transparent&text_color=000&title_color=0A66C2&icon_color=0A66C2" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Nikesh-R&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Nikesh-R&layout=compact&title_color=0A66C2&text_color=000" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hari-nikesh-r-930bb723a/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://twitter.com/harinikesh10"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://instagram.com/enroute_professional/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="https://leetcode.com/hari_10/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/hari-nikesh-r-930bb723a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://twitter.com/harinikesh10">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+  <a href="https://instagram.com/enroute_professional/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+  <a href="https://leetcode.com/hari_10/">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="40"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Intelligence Report
-\`\`\`bash
-> decoding activity...
-\`\`\`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Nikesh-R&show_icons=true&theme=chartreuse-dark"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Nikesh-R&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Nikesh-R&layout=compact&theme=chartreuse-dark"/>
-</p>
+## 📝 Professional Statement
+> “I believe software should be clean, scalable, and meaningful.  
+> My mission is to build technology that improves lives, accelerates teams,  
+> and inspires the next generation of developers.”
 
----
-
-## 🧩 Signature
-\`\`\`bash
-> echo "Built with curiosity, discipline, and clean code."
-\`\`\`
-
-<p align="center">
-  <img src="https://i.ibb.co/c2v3C08/hacker-footer.gif" width="100%"/>
-</p>
