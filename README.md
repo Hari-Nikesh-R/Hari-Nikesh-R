@@ -1,14 +1,6 @@
 <h1 align="center">Hari Nikesh R</h1>
 <h3 align="center" style="color:#0A66C2;">Software Engineer | Full Stack Developer | Mobile & Backend Specialist</h3>
-
 <br>
-
-<p align="center">
-  <img src="https://i.ibb.co/ZJx0bkf/linkedin-banner-premium.png" width="100%" />
-</p>
-
-<br>
-
 ## 👋 About Me
 I’m a passionate **Software Engineer** with 3+ years of experience building scalable backend services, intuitive mobile applications, and full-stack systems.  
 
@@ -74,25 +66,7 @@ I also love **teaching, mentoring, and creating technical content**, helping dev
 
 ### **B.E — Computer & Communication Engineering**  
 Sri Eshwar College of Engineering (2019–2023)
-
 ---
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Nikesh-R&show_icons=true&theme=transparent&text_color=000&title_color=0A66C2&icon_color=0A66C2" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-Nikesh-R&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-Nikesh-R&layout=compact&title_color=0A66C2&text_color=000" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
