@@ -1,7 +1,9 @@
 <h1 align="center">Hari Nikesh R</h1>
 <h3 align="center" style="color:#0A66C2;">Software Engineer | Full Stack Developer | Mobile & Backend Specialist</h3>
 <br>
+
 ## 👋 About Me
+
 I’m a passionate **Software Engineer** with 3+ years of experience building scalable backend services, intuitive mobile applications, and full-stack systems.  
 
 With strong expertise in **Java, Spring Boot, Flutter, React, and distributed systems**, I enjoy solving business problems through clean architecture, performance optimization, and user-centric design.
